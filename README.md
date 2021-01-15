@@ -27,7 +27,8 @@ Run the code:
 ``` ./server2 5000```
 
 ### For Client
-Keep one of the server running(either server1 or server2), open another terminal and run the client code
+- Keep one of the server running(either server1 or server2), open another terminal and run the client code
+
 Compile the code:
 ``` gcc client.c -o client```
 
