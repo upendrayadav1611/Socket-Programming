@@ -1,0 +1,19 @@
+1. All the testcases mentioned in the assignment pdf [TEST 1-7] were tested successfully. Both server1 and server2 gave the expected results.
+
+OPTIONAL TESTCASES:
+
+1. Both server1 and server2 while evaluating the expression were able to handle the extra spaces in the expression.
+
+INTPUT1: 8 +   10  
+OUTPUT1: 18
+
+INTPUT2:  9   -    10
+OUTPUT2: -1
+
+2. Both server1 and server2 while evaluating the expression were able to handle the negative operands.
+
+INTPUT1: -10 - -10
+OUTPUT1: 0
+
+INTPUT2: 8 * -10
+OUTPUT2: -80
